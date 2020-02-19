@@ -1,2 +1,2 @@
 # MyNotes
-my notes
+记录平日看到的东西，方便日后查阅
